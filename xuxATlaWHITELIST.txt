@@ -1,5 +1,9 @@
 ! Whitelist - Domains
 
+# Fuer Philomena / damit die UNI-Email funktioniert
+@@||msxlb.ads.uni-passau.de^$important
+@@||email.uni-passau.de^$important
+
 # Aliexpress.com
 @@||campaign.aliexpress.com^$important
 @@||login.aliexpress.com^$important
