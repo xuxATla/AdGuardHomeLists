@@ -270,4 +270,7 @@
 
 # YouTube
 ||ads.youtube.com^
+
+#Sonstigea
+||adclick.g.doubleclick.net^
 ||youtube.cleverads.vn^
