@@ -239,6 +239,10 @@
 @@||t5.market.xiaomi.com^$important
 @@||zhuti.xiaomi.com^$important
 
+# Sonstiges
+@@||camzey.com^$important
+@@||vidizzy.com^$important
+
 # Youtube
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
