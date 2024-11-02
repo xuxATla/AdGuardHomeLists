@@ -242,6 +242,7 @@
 # Sonstiges
 @@||camzey.com^$important
 @@||vidizzy.com^$important
+@@||talkwithstranger.com^$important
 
 # Youtube
 @@||i.ytimg.com^$important
